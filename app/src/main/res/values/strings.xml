@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Guide</string>
+    <string name="menu_one">Help</string>
+    <string name="menu_two">About</string>
+    <string name="helpDescTerm">The Terminology page displays a search bar that allows you to search for common terminology for Android Development  </string>
+    <string name="helpDescWeb">The Website page displays the URL of a list of websites for Android Development  </string>
+    <string name="aboutMe1">Name: Ka Yee Jason Fung </string>
+    <string name="aboutMe2">Program: Computer Programming and Analysis Co-op</string>
+    <string name="aboutMe3">I study at Seneca College. Below is the logo.</string>
+    <string name="web1">Below are the links to 12 websites that are good for learning Android Development.</string>
+    <string name="termDesc">Below is a search box for looking up some common terminologies in Android</string>
+    <string name="search">Search:</string>
+    <string name="link1"><a href="http://developer.android.com/training/index.html">http://developer.android.com/training/index.html</a></string>
+    <string name="link2"><a href="http://stackoverflow.com">http://stackoverflow.com</a></string>
+    <string name="link3"><a href="http://groups.google.com/group/android-discuss">http://groups.google.com/group/android-discuss</a></string>
+    <string name="link4"><a href="https://scs.senecac.on.ca/~john.selmys/subjects/map524-151">https://scs.senecac.on.ca/~john.selmys/subjects/map524-151</a></string>
+    <string name="link5"><a href="http://www.techotopia.com/index.php/Android_Studio_Development_Essentials">http://www.techotopia.com/index.php/Android_Studio_Development_Essentials</a></string>
+    <string name="link6"><a href="http://www.androidauthority.com">http://www.androidauthority.com</a></string>
+    <string name="link7"><a href="http://androidweekly.net">http://androidweekly.net</a></string>
+    <string name="link8"><a href="https://www.youtube.com/user/GoogleDevelopers">https://www.youtube.com/user/GoogleDevelopers</a></string>
+    <string name="link9"><a href="http://gradleplease.appspot.com">http://gradleplease.appspot.com</a></string>
+    <string name="link10"><a href="http://en.wikipedia.org/wiki/Android_software_development">http://en.wikipedia.org/wiki/Android_software_development</a></string>
+    <string name="link11"><a href="https://www.udacity.com/course/ud853">https://www.udacity.com/course/ud853</a></string>
+    <string name="link12"><a href="http://www.codelearn.org/android-tutorial">http://www.codelearn.org/android-tutorial</a></string>
+
+    <string name="term1">adb</string>
+    <string name="term2">emulator</string>
+    <string name="term3">android</string>
+    <string name="term4">screenshot2</string>
+    <string name="term5">gradle</string>
+    <string name="term6">pm</string>
+    <string name="term7">lint</string>
+    <string name="term8">project</string>
+    <string name="term9">panel</string>
+    <string name="term10">toolbar</string>
+    <string name="term11">statusbar</string>
+    <string name="term12">branch</string>
+    <string name="term13">intellisense</string>
+    <string name="term14">module</string>
+    <string name="term15">init</string>
+    <string name="term16">commit</string>
+    <string name="term17">push</string>
+    <string name="term18">add</string>
+    <string name="term19">pull</string>
+    <string name="term20">clone</string>
+
+    <string name="answer1">adb stands for Android Debug Bridge. It is a command used to check whether my computer and my Android device are connected.</string>
+    <string name="answer2">emulator is a command used to launch the emulator.</string>
+    <string name="answer3">android is a command used to launch the Android SDK Manager.</string>
+    <string name="answer4">screenshot2 is a command used to capture a screenshot of my application.</string>
+    <string name="answer5">gradle is a command used to run gradle and check the version number of gradle installed.</string>
+    <string name="answer6">pm stands for package manager. It is a command used to perform actions on the application packages installed on your Android device.</string>
+    <string name="answer7">lint is a command that checks for potential bugs in the your gradle project.</string>
+    <string name="answer8">project is a workspace where you develop your mobile application.</string>
+    <string name="answer9">panel is a rectangular box that can have multiple panes (i.e. Preview, Gradle, Maven Projects, etc).</string>
+    <string name="answer10">toolbar is located near the top of Android Studio display below the menu bar.</string>
+    <string name="answer11">statusbar tells you which components of Android Studio are currently running and their current status.</string>
+    <string name="answer12">branch allows you to create, list, rename and delete branches. A branch is an independent line of development for your project.</string>
+    <string name="answer13">intellisense is an autocompletion feature of many SDKs or IDEs that suggests a list of possible codes as you type your codes.</string>
+    <string name="answer14">module is a component of my app that I can build, test and debug independently.</string>
+    <string name="answer15">init means to initilize a directory as a Git repository for my project.</string>
+    <string name="answer16">commit means to save all the changes that I have made to my project into my Git repository.</string>
+    <string name="answer17">push means to transfer the last commit to a remote repository (ie. Github).</string>
+    <string name="answer18">add means to add a change to my Git repository. </string>
+    <string name="answer19">pull means to pull from a remote repository and try to merge into the current branch.</string>
+    <string name="answer20">clone means to clone an existing repository from elsewhere (ie. Github).</string>
+
+
+</resources>
